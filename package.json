@@ -4,6 +4,7 @@
   "main": "index.js",
   "author": "Aaron Maldonado",
   "license": "MIT",
+  "description": "Node, Express, Jest and Typescript minimal boilerplate",
   "scripts": {
     "start": "nodemon",
     "clean": "rimraf ./dist",
